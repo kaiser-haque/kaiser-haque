@@ -30,3 +30,5 @@ Testcontainers · GitHub Actions
 ## Contact
 
 - GitHub: https://github.com/kaiser-haque
+- LinkedIn: https://www.linkedin.com/in/kaiserhaque0/
+- Email: khaque444@gmail.com
