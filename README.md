@@ -16,9 +16,6 @@ with Spring Boot auto-configuration.
 - Release: https://github.com/kaiser-haque/manto/releases/tag/v1.0.0
 
 ## Also here
-
-- [springboot-interview-guide](https://github.com/kaiser-haque/springboot-interview-guide) —
-  Spring Boot microservices interview guide with 200+ inline Q&A pairs.
 - [extract-epic-number](https://github.com/kaiser-haque/extract-epic-number) —
   small Python utility.
 
